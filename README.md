@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Eric Gomez 👋
 
-<!--
-**ericgomez663/ericgomez663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Administrador de Empresas | QA Tester Manual & Automatizado
 
-Here are some ideas to get you started:
+Soy un profesional con un perfil híbrido único: combino la estructura, la visión estratégica y el análisis de procesos de la **Administración de Empresas** con el rigor técnico y la mentalidad analítica del **Aseguramiento de Calidad de Software (QA)**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi enfoque está en garantizar que los productos digitales no solo funcionen sin errores, sino que también aporten valor real al negocio y una experiencia óptima al usuario.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+- **Metodologías de Prueba:** Pruebas Manuales, Pruebas Funcionales, Regresión, Humo, Diseño de Casos de Prueba (Checklists, Test Cases).
+- **Herramientas de Gestión y Reporte:** Jira Software, Google Sheets.
+- **Automatización & APIs:** Postman, Selenium (En formación/práctica).
+- **Idiomas:** Español (Nativo) | Inglés (Básico/Intermedio en desarrollo).
+
+---
+
+### 🚀 Proyecto Destacado
+
+* **[Pruebas web de rutas urbanas](./Pruebas-web-de-rutas-urbanas):** Aseguramiento de calidad para una aplicación de transporte. Diseño integral de la estrategia de pruebas, ejecución manual, reportes de bugs en Jira y automatización de flujos críticos.
+
+---
+
+### 📬 Conectemos
+- **LinkedIn:** [linkedin.com/in/ericgomez-qa](https://www.linkedin.com/in/eric-gomez-232a0110a/) *(Asegúrate de cambiar este enlace si modificas tu URL)*
+- **Correo:** [Tu Correo Electrónico Aquí]
+- **Ubicación:** Bogotá D.C., Colombia 🇨🇴 (Disponible para roles Presenciales, Híbridos y Remotos)
